@@ -14,7 +14,7 @@ Simple to-do web-app with some functions
 - `POST /removeAll` - For deleting all to-do
 - `POST /search` - For searching to-do with specific parameter
 
-## Used technologies
+## Used Technologies
 - HTML, Bootstrap, CSS
 - Java, Spring Boot (JPA, Thymeleaf, Web, HSQLDB, Lombok)
 
